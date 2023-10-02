@@ -1,0 +1,158 @@
+,Brand,Models,Price_in_Crores,Ranges,BatteryRange
+0,Motovolt,Motovolt Urbn e-Bike,0.0049999,120.0,0.72
+1,EMotorad,EMotorad Nighthawk,0.0475,40.0,1.56
+2,Essel,Essel Energy GET 1,0.00375,70.0,0.62
+3,Essel,Essel Energy GET 7,0.00435,60.0,0.62
+4,Hero,Hero Lectro F6i,0.0057999,30.0,0.21
+5,Hero,Hero Lectro C5,0.0030999,30.0,0.56
+6,Hero,Hero Lectro C8,0.0036999,30.0,1.56
+7,Hero,Hero Lectro C3,0.0028999,25.0,1.56
+8,Hero,Hero Lectro C6,0.0034999,80.0,0.2
+9,SVITCH,SVITCH XE,0.008225,70.0,0.4
+10,Hero,Hero Lectro WINN-X,0.0044419,55.0,0.28
+11,Hero,Hero Lectro WINN,0.0049999,100.0,1.56
+12,Nexzu,Nexzu Roadlark,0.0042199,100.0,1.56
+13,Nexzu,Nexzu Bazinga,0.0042999,32.0,0.27
+14,Nexzu,Nexzu Rompus Plus,0.0029999,30.0,0.28
+15,Motovolt,Motovolt Hum,0.0033049,30.0,3.24
+16,Motovolt,Motovolt Kivo,0.0031774,30.0,3.24
+17,Motovolt,Motovolt Kivo Easy,0.0031774,30.0,3.24
+18,Motovolt,Motovolt Ice,0.0023449,25.0,3.24
+19,Hero,Hero Lectro C7+,0.0034999,25.0,3.24
+20,Hero,Hero Lectro C9,0.0043999,25.0,3.24
+21,Hero,Hero Lectro F2I,0.0039999,25.0,3.24
+22,Hero,Hero Lectro C7,0.0034999,25.0,3.24
+23,Hero,Hero Lectro C8i,0.0039999,25.0,3.24
+24,Hero,Hero Lectro F3i,0.0042999,30.0,3.24
+25,Hero,Hero Lectro C5X,0.0038999,30.0,3.24
+26,Hero,Hero Lectro C1,0.0032999,30.0,3.24
+27,Hero,Hero Lectro H3,0.0028499,30.0,3.24
+28,Hero,Hero Lectro H5,0.0029999,250.0,3.24
+29,Hero,Hero Lectro F1,0.0038999,70.0,3.24
+30,Motovolt,Motovolt Kivo 24,0.0031774,80.0,3.24
+31,Polarity,Polarity Smart Sport,0.004,80.0,3.24
+32,Polarity,Polarity Smart Executive,0.0038,75.0,3.24
+33,Toutche,Toutche Heileo H200,0.00629,75.0,3.24
+34,Toutche,Toutche Heileo M200,0.00629,75.0,3.24
+35,Toutche,Toutche Heileo M100,0.00539,45.0,3.24
+36,EMotorad,EMotorad EMX,0.0058999,45.0,3.24
+37,EMotorad,EMotorad T-Rex,0.0042999,120.0,3.24
+38,SVITCH,SVITCH XE+,0.0118,35.0,3.24
+39,SVITCH,SVITCH MXE,0.00665,50.0,3.24
+40,EMotorad,EMotorad Doodle,0.00798,103.0,3.24
+41,Firefox,Firefox Adventron,0.0063,40.0,3.24
+42,EMotorad,EMotorad X1,0.0024999,45.0,3.24
+43,EMotorad,EMotorad X2,0.0027999,103.0,3.24
+44,EMotorad,EMotorad X3,0.0032999,103.0,3.24
+45,EMotorad,EMotorad Desert Eagle,0.05,103.0,3.24
+46,udChalo,udChalo VirBike,0.0027995,103.0,3.24
+47,Hornback,Hornback X1,0.0044999,103.0,3.24
+48,Revolt,Revolt RV400,0.0154,150.0,3.24
+49,Ultraviolette,Ultraviolette F77,0.038,307.0,4.4
+50,Tork,Tork Kratos R,0.0137,180.0,3.24
+51,Oben,Oben Rorr,0.0124,200.0,5.0
+52,Matter,Matter Aera,0.0173,125.0,3.6
+53,Komaki,Komaki Ranger,0.0185,200.0,4.32
+54,Odysse,Odysse Electric Evoqis,0.0171,103.0,4.0
+55,Kabira,Kabira Mobility KM 3000,0.0175,120.0,3.2
+56,One,One Electric Motorcycles Kridn,0.0135,110.0,3.24
+57,Power,Power EV P-Sport,0.0157,210.0,3.75
+58,Hop,Hop Oxo,0.0161,150.0,2.23
+59,Komaki,Komaki XGT CAT 2.0,0.0096207,95.0,1.25
+60,Atumobile,Atumobile Atum Version 1.0,0.0074999,100.0,5.18
+61,Joy,Joy e-bike Beast,0.0242,110.0,5.04
+62,ABZO,ABZO VS01,0.0223,180.0,4.4
+63,Kabira,Kabira Mobility KM 4000,0.0176,150.0,2.3
+64,Atumobile,Atumobile AtumVader,0.0099999,100.0,3.5
+65,PURE,PURE EV eTryst 350,0.0149,90.0,7.2
+66,Srivaru,Srivaru Motors Prana,0.0225,225.0,3.0
+67,PURE,PURE EV EcoDryft,0.0119,80.0,2.17
+68,Komaki,Komaki MX3,0.0095,85.0,2.1
+69,Komaki,Komaki XGT Classic,0.0111,105.0,2.88
+70,Rowwet,Rowwet Trono,0.018,103.0,3.31
+71,Komaki,Komaki DT 3000,0.0121,103.0,1.56
+72,Birla,Birla V6,0.0159,140.0,3.7
+73,Odysse,Odysse Electric VADER,0.0109,103.0,1.66
+74,Joy,Joy e-bike Monster,0.011,75.0,5.18
+75,Joy,Joy e-bike Thunderbolt,0.0233,110.0,3.24
+76,Volvo,Volvo C40 Recharge,0.6125,530.0,78.0
+77,Tata,Tata Tiago EV,0.0869,315.0,24.0
+78,MG,MG Comet EV,0.0798,230.0,17.3
+79,Kia,Kia EV6,0.6095,708.0,77.4
+80,Mahindra,Mahindra XUV400 EV,0.1599,456.0,39.4
+81,BMW,BMW i7,2.0299999,590.0,101.7
+82,BMW,BMW i4,0.739,493.0,83.9
+83,BMW,BMW iX,1.21,372.0,71.0
+84,Audi,Audi e-tron GT,1.7,388.0,93.4
+85,Tata,Tata Tigor EV,0.1249,315.0,26.0
+86,MG,MG ZS EV,0.2338,461.0,50.3
+87,Hyundai,Hyundai Kona Electric,0.2384,452.0,39.2
+88,Audi,Audi e-tron,1.02,359.0,95.0
+89,Mercedes-Benz,Mercedes-Benz EQS,1.59,857.0,107.8
+90,BYD,BYD Atto 3,0.3399,521.0,60.48
+91,Porsche,Porsche Taycan,1.6,395.0,93.4
+92,Citroen,Citroen eC3,0.115,320.0,29.2
+93,BYD,BYD E6,0.2915,415.0,71.7
+94,Jaguar,Jaguar I-Pace,1.19,446.0,90.0
+95,BMW,BMW iX1,0.669,417.0,66.4
+96,Mercedes-Benz,Mercedes-Benz EQE SUV,1.3899999,550.0,90.56
+97,Audi,Audi RS e-tron GT,1.93,401.0,93.4
+98,PMV,PMV EaS E,0.0479,160.0,10.0
+99,Strom,Strom Motors R3,0.045,200.0,200.0
+100,Volvo,Volvo XC40 Recharge,0.569,418.0,78.0
+101,Mini,Mini Cooper SE,0.535,270.0,32.6
+102,Hyundai,Hyundai IONIQ 5,0.4595,631.0,72.6
+103,Mercedes-Benz,Mercedes-Benz EQB,0.775,423.0,66.5
+104,Audi,Audi Q8 e-tron,1.1299999,582.0,114.0
+105,Pravaig,Pravaig DEFY,0.395,500.0,90.0
+106,Tata,Tata Nexon EV,0.1474,465.0,30.0
+107,Mercedes-Benz,Mercedes-Benz AMG EQS,2.45,526.0,107.8
+108,Audi,Audi Q8 Sportback e-tron,1.18,600.0,114.0
+109,Ola,Ola S1 Pro,0.0139,195.0,4.0
+110,TVS,TVS iQube Electric,0.0155,100.0,3.04
+111,Ather,Ather 450X,0.0137,150.0,3.24
+112,Hero,Hero Electric Optima,0.0106,135.0,2.0
+113,Bajaj,Bajaj Chetak,0.0163,108.0,3.0
+114,Ola,Ola S1 Air,0.0119,101.0,5.0
+115,Simple,Simple One,0.0145,212.0,3.94
+116,Vida,Vida V1,0.0145,110.0,4.0
+117,Ola,Ola S1 X,0.0089999,151.0,3.24
+118,River,River Indie,0.0125,120.0,0.98
+119,TVS,TVS X Electric Scooter,0.0249,80.0,3.24
+120,Yulu,Yulu Wynn,0.0055555,103.0,2.29
+121,Ampere,Ampere Magnus EX,0.0104,121.0,1.9
+122,Bounce,Bounce Infinity E1,0.0102,85.0,2.0
+123,Okinawa,Okinawa PraisePro,0.0099645,88.0,1.56
+124,AMO,AMO Electric Jaunty-3W,0.0062964,75.0,1.68
+125,Kinetic,Kinetic Green Zing,0.00715,100.0,2.0
+126,BGauss,BGauss C12i,0.0099999,135.0,3.53
+127,Hero,Hero Electric NYX,0.007359,130.0,0.96
+128,Okaya,Okaya Faast,0.0124,140.0,1.32
+129,Avon,Avon E Scoot,0.0045,65.0,0.58
+130,Kinetic,Kinetic Green Zoom,0.00751,100.0,1.54
+131,Avon,Avon E Plus,0.0025,50.0,1.54
+132,Hero,Hero Electric Flash,0.005964,85.0,2.52
+133,Hero,Hero Electric Atria,0.007769,103.0,3.24
+134,Ozotec,Ozotec Bheem,0.006599,85.0,3.0
+135,Hop,Hop Electric LEO,0.008436,125.0,3.1
+136,eblu,eblu Feo,0.0099999,103.0,2.18
+137,PURE,PURE EV Epluto 7G,0.0089999,90.0,2.88
+138,BattRE,BattRE Electric Storie,0.0117,132.0,3.24
+139,Joy,Joy e-bike Gen Next Nanu Plus,0.0112,100.0,1.5
+140,BattRE,BattRE Electric LoEV,0.00689,60.0,1.25
+141,Benling,Benling Aura,0.0121,120.0,3.24
+142,AMO,AMO Electric Jaunty,0.0059966,80.0,2.11
+143,Ozotec,Ozotec Flio,0.0112999,60.0,3.2
+144,Hero,Hero Electric Photon,0.011,103.0,3.24
+145,Ather,Ather 450S,0.0129,115.0,3.24
+146,Warivo,Warivo Motors Queen,0.00468,95.0,2.64
+147,Lectrix,Lectrix EV LXS,0.0091253,89.0,3.24
+148,Zelio,Zelio Gracy i,0.0056825,60.0,1.68
+149,Ujaas,Ujaas eZy,0.003188,60.0,1.25
+150,Komaki,Komaki LY,0.0095866,80.0,3.24
+151,BGauss,BGauss D15,0.0134,115.0,3.24
+152,HCD,HCD India NPS Cargo,0.007585,103.0,3.24
+153,Gravton,Gravton Quanta,0.0099,70.0,3.24
+154,Okinawa,Okinawa Dual 100,0.0119,110.0,3.24
+155,Deltic,Deltic Drixx,0.005849,70.0,3.24
+156,Ujaas,Ujaas eGo LA,0.003488,75.0,3.24
